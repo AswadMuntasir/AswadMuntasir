@@ -6,7 +6,7 @@
 
 **Proven ability to work independently and as part of a team to deliver high-quality products on time and within budget.**
 
-**Expertise in Larave (PHP), Vue.js (JavaScript), React.js (JavaScript), Django (Python) and MySQL.**
+**Expertise in Larave (PHP), Vue.js (JavaScript, TypeScript), React.js (JavaScript, TypeScript), Django (Python) and MySQL.**
 
 **Passionate about building innovative and user-friendly applications.**
 
@@ -14,7 +14,7 @@
 
 ### Skills
 
-* Programming languages: PHP, JavaScript, Python, MySQL
+* Programming languages: PHP, JavaScript, TypeScript, Python, MySQL
 * Web development frameworks: Larave, Vue.js, React.js, Django
 * Cloud computing platforms: AWS, Azure
 * DevOps tools: Git, CI/CD
